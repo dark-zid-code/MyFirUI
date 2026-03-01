@@ -27,7 +27,7 @@ class _HomeState extends State<Home> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: const [
                       Text(
-                        'Hello, Dark',
+                        'Hello, Abdallah',
                         style: TextStyle(
                           color: Color(0xFFF1F5F9),
                           fontSize: 28,
@@ -36,7 +36,7 @@ class _HomeState extends State<Home> {
                         ),
                       ),
                       Text(
-                        'Welcome back to the future.',
+                        'Welcome back to the Past.',
                         style: TextStyle(
                           color: Color(0xFF94A3B8),
                           fontSize: 14,
