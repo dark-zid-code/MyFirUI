@@ -4,7 +4,12 @@ class DetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text("Hello Ziad") 
+      body: Column (
+        children: [
+          Text("Hello Ziad"),
+          Text("Hello Abdallah"),
+        ]
+      )
     );
   }
 }
